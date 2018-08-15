@@ -1,7 +1,10 @@
 Mars is not cold and sometimes dry
 Mars has no moons; this is a problem for werewolves. 
 But the mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 I own this file!
 This is my line!
 This is my file!
 This is my repo!
+=======
+>>>>>>> 7d134384b15a3693382fe5959f8a245ec1e5614d
